@@ -1,0 +1,15 @@
+img.center{
+    display: block;
+    margin: 0 auto;
+}
+div.prod_price{
+    padding-top: 10px;
+}
+
+div.prod_box{
+    height: 190px;
+}
+
+div.product_img{
+    height: 100px;
+}
